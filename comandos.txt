@@ -1,0 +1,6 @@
+composer require cboden/ratchet
+
+composer dump-autoload
+
+php server.php
+
